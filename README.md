@@ -7,12 +7,12 @@
 
 ## Структура проекта
 
- configuration.py # Конфигурационные данные
- data.py # Тестовые данные
- sender_stand_requests.py # API запросы
- order_test.py # Тестовые сценарии
- .gitignore # Игнорируемые файлы
- README.md # Документация
+ configuration.py - Конфигурационные данные
+ data.py - Тестовые данные
+ sender_stand_requests.py - API запросы
+ order_test.py - Тестовые сценарии
+ .gitignore - Игнорируемые файлы
+ README.md - Документация
 
 ## Автоматизация теста к API
 Теперь автоматизируй сценарий, который подготовили коллеги-тестировщики:
