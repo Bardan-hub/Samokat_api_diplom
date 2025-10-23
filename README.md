@@ -7,11 +7,11 @@
 
 ## Структура проекта
 
- 1.configuration.py - Конфигурационные данные
- 2.data.py - Тестовые данные
- 3.sender_stand_requests.py - API запросы
- 4.order_test.py - Тестовые сценарии
- 5..gitignore - Игнорируемые файлы
+ 1.configuration.py - Конфигурационные данные  
+ 2.data.py - Тестовые данные  
+ 3.sender_stand_requests.py - API запросы  
+ 4.order_test.py - Тестовые сценарии  
+ 5..gitignore - Игнорируемые файлы  
  6.README.md - Документация
 
 ## Автоматизация теста к API
